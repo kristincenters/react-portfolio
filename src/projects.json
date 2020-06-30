@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"title": "Stay Organized: Plan Your Day",
+		"cardLink": "https://kristincenters.github.io/DailyPlanner",
+		"cardImg": "https://kristincenters.github.io/assets/images/graphic-headers-01.svg",
+		"description": "Save your notes and check your schedule with this daily planner.",
+		"siteLink": "https://kristincenters.github.io/DailyPlanner",
+		"codeLink": "https://github.com/kristincenters/DailyPlanner",
+		"cardFooter": "HTML • CSS • JS"
+	},
+	{
+		"id": 2,
+		"title": "Generate Your Own Password",
+		"cardLink": "https://kristincenters.github.io/PasswordGenerator",
+		"cardImg": "https://kristincenters.github.io/assets/images/graphic-headers-02.svg",
+		"description": "Generate a random password based on user-specific criteria.",
+		"siteLink": "https://kristincenters.github.io/PasswordGenerator",
+		"codeLink": "hhttps://github.com/kristincenters/PasswordGenerator",
+		"cardFooter": "HTML • CSS • JS"
+	},
+	{
+		"id": 3,
+		"title": "Find Quick Facts on Music Artists",
+		"cardLink": "https://git-theresa.github.io/Project/",
+		"cardImg": "https://kristincenters.github.io/assets/images/graphic-headers-03.svg",
+		"description": "Search and find quick facts on your favorite music artists.",
+		"siteLink": "https://git-theresa.github.io/Project",
+		"codeLink": "https://github.com/kristincenters/MusicArtistApp",
+		"cardFooter": "HTML • CSS • JS • AJAX • jQuery"
+	},
+	{
+		"id": 4,
+		"title": "Note Taker",
+		"cardLink": "https://still-brushlands-77723.herokuapp.com",
+		"cardImg": "https://kristincenters.github.io/assets/images/graphic-headers-04.svg",
+		"description": "Keep track of your to do list and notes with this note taker.",
+		"siteLink": "https://still-brushlands-77723.herokuapp.com",
+		"codeLink": "https://github.com/kristincenters/noteTake",
+		"cardFooter": "HTML • CSS • JS • Node"
+	},
+	{
+		"id": 5,
+		"title": "Build-A-Burger",
+		"cardLink": "https://limitless-temple-19750.herokuapp.com",
+		"cardImg": "https://kristincenters.github.io/assets/images/graphic-headers-05.svg",
+		"description": "Enter your favorite burger, devour it and add it to your list.",
+		"siteLink": "https://limitless-temple-19750.herokuapp.com",
+		"codeLink": "https://github.com/kristincenters/Build-A-Burger",
+		"cardFooter": "HTML • CSS • JS • Node • Express"
+	},
+	{
+		"id": 6,
+		"title": "Route 404",
+		"cardLink": "https://route-404.herokuapp.com",
+		"cardImg": "https://kristincenters.github.io/assets/images/graphic-headers-06.svg",
+		"description": "Create a user profile, search locations, and save a list of your favorite places.",
+		"siteLink": "https://route-404.herokuapp.com",
+		"codeLink": "https://github.com/kristincenters/route-404",
+		"cardFooter": "HTML • CSS • JS • Node/Express • mySQL"
+	}
+]
